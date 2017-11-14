@@ -11,5 +11,7 @@ class Index
     public function hello()
     {
     	echo 'one';    
+	echo 'abc';
     }
+
 }
