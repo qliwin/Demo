@@ -7,4 +7,9 @@ class Index
     {
         echo 'hello' , $name;
     }
+
+    public function hello()
+    {
+        
+    }
 }
