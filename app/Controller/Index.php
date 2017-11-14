@@ -1,0 +1,10 @@
+<?php
+namespace app\Controller;
+
+class Index
+{
+    public function say($name = 'world')
+    {
+        echo 'hello' , $name;
+    }
+}
