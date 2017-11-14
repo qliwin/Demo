@@ -1,0 +1,15 @@
+{
+    "name": "qliwin/demo",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^1.23"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qli",
+            "email": "qliwin@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
