@@ -10,6 +10,6 @@ class Index
 
     public function hello()
     {
-        
+    	echo 'one';    
     }
 }
